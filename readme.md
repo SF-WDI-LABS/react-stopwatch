@@ -42,3 +42,9 @@ The clear button should clear all laps.
 * Make the `Start` button disabled once the clock is running.
 * Make the `Stop` and `Lap` buttons disabled once the clock is stopped.
 * Make another component to make multiple `StopWatch` components.
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
