@@ -1,4 +1,4 @@
-#React Stopwatch
+# React Stopwatch
 
 Let's build a stopwatch using React. Feel free to use the Codepen starter template and fork it.
 
@@ -6,7 +6,7 @@ http://codepen.io/bhague1281/pen/JXEaeK
 
 To submit, create a pull request with a link to your fork.
 
-##Part 1 - Time display
+## Part 1 - Time display
 
 Create a component called `TimeDisplay` 
 
@@ -16,7 +16,7 @@ Create a component called `TimeDisplay`
   * Note: You may want to take advantage of the `substr` function to take care of the leading zeroes in the time. That said, if you can't get the format perfect, don't waste too much time and move on to the next parts.
 * make sure the component can be rendered to the page.
 
-##Part 2 - StopWatch
+## Part 2 - StopWatch
 
 Create a component called `StopWatch` that includes a `<TimeDisplay />` and 3 buttons (start, stop, clear).
 
@@ -28,7 +28,7 @@ Create a component called `StopWatch` that includes a `<TimeDisplay />` and 3 bu
 * `Clear` should stop the timer and set it back to 0.
 * make sure the component can be rendered to the page.
 
-##Part 3 - Counting laps
+## Part 3 - Counting laps
 
 Add a "Lap" button to the `StopWatch` when it is clicked the timer should keep running, but the time when the button was clicked should be stored (added to an array).
 
@@ -37,7 +37,7 @@ Add a "Lap" button to the `StopWatch` when it is clicked the timer should keep r
 
 The clear button should clear all laps.
 
-##Bonus
+## Bonus
 
 * Make the `Start` button disabled once the clock is running.
 * Make the `Stop` and `Lap` buttons disabled once the clock is stopped.
