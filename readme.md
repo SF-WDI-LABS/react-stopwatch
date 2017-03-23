@@ -4,7 +4,6 @@ Let's build a stopwatch using React. Feel free to use the Codepen starter templa
 
 http://codepen.io/bhague1281/pen/JXEaeK
 
-To submit, create a pull request with a link to your fork.
 
 ## Part 1 - Time display
 
